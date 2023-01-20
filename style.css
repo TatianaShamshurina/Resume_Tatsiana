@@ -1,5 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
 
+.h
+{
+font-weight:bold;
+color:#006400;
+font-style:italic;
+text-decoration:underline;
+text-align:center;
+}
 :root
 {
     --mainTextColor-light:#000;
@@ -19,7 +26,8 @@
 
 body
 {
-    background-color: var(--mainBgColor);
+    
+    background-color:#33475b
 
 }
 
